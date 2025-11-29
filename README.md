@@ -270,9 +270,11 @@ Its sole purpose is usually to guide a player to the next point. But another exa
 Cmon! I just had to have a feature of the game of the year contender "The Life of Mr Pips" is it too far fetched that a strawberry surfing a leaf over water is a good example of good path design?
 Well actually I don't think it does because I don't consider "The Life of Mr Pips" a sandbox game, but god dammit Mr Pips goes beyond game design so I'll put it in!
 
-![Golden tree](images/24-Mr-Pips-Rafting path.png)
+![Golden tree](images/24-Mr-Pips-Rafting-path.png)
+
 ![Golden tree](images/25-pip-rafting.gif)
 
 
 #### Nodes
-I actually have no clue how 
+I actually have no clue what nodes are, the book says: well basically nodes are intersections on a road. So what doesn that mean?
+Well there is this thing named "Decision points" that are basically force the player to decide on what to priorotise next. I guess Baldurs gate is also a good example because these decisions can also be used for things like moral decisions.
