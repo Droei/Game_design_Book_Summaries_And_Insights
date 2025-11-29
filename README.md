@@ -122,13 +122,14 @@ Well how do I do this procedurally? Well I guess that's something environmental 
 
 ## Spartial Size types
 
+Source: An Architectual Approach to Level Design: 118 - 
+
 Well gang, I have sad news for many of ma bro's out there (But none for me, well actually too much is also not good sometimes) but size does matter!
 Not just any size... SPARTIAL SIZE!!! So what is it I have no clue??? Game Space size? The book talks bout 3 different size types. I guess big, medium and small....
 We'll figure it out as we go!
 
 ### Narrow Space
 
-Source: An Architectual Approach to Level Design: 118 - 
 
 
 A space where the player feels confined and unable to move. 
@@ -151,3 +152,21 @@ I luckily I survived with just a few scratches and bruises
 
 Anyway this pressure can come in many ways and honestly I love using my own real life examples to understanding these concepts, its such a nice way to understand concepts this way.
 I don't know if my way of writing everything down that comes to mind is something that works for others, but for me it really helps with putting my mind in order!
+
+### Intimate Space
+
+Basically not confining not large. Its made to comfortably support the movement of the character in relation to its size. Interactive surfaces and features are within (hee player reach, like wall jumping etc. Its the type of area you enjoy jumping around in as you enjoy just join then nice design of a character! I assume these are the most common spaces.
+The book also talks aboutmultilateral intimate space where you are in a multiplayer game with nosignificant advantage points.
+
+![Space scarce examples](images/12-Intermediate-space.png)
+
+These spaces have several beneficial effects like their comfortable accessibility as they are considered friendly often. Assuming in procedurally generated world they can also be created as a safezone in a horde of enemies.
+I guess a nice example would be this amazing art piece I made using some cool lava environment I found on SketchFab: https://sketchfab.com/3d-models/low-poly-lava-world-05919a399a8c47ebbf56822ef2bac7d3
+
+![Space scarce examples](images/13-lava.jpg)
+
+Imagine you are in a big lava area full of monsters but when generating one of those difficult areas there are spots you can crawl into on the side maybe? Like safe spaces, they are clearly seperated from the rest of the area but still part of it, you see walls around you and know enemies can't reach, it has some areas you can move around in, maybe some loot but all by all its safe, it phases the game right before you are about to have to fight through big hordes, I feel like when working procedurally generating random Intimate spaces all ove the world isn't nessisairy to put level design in but more of like a failsafe to give players a time to phase back, on purpose to catch some air, change their characters or maybe not because in the past you conditioned them that Intimate spaces like these can bring you rewards or maybe lore of like characters that died hiding there or whatever! Its such a nice consistent way of telling story while slowing down the pace procedurally!!!
+
+### Prospect Space
+
+Guess this is for tomorrow, the Monster wore out...
