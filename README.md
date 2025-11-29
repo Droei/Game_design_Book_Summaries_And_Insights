@@ -170,3 +170,64 @@ Imagine you are in a big lava area full of monsters but when generating one of t
 ### Prospect Space
 
 Guess this is for tomorrow, the Monster wore out...
+
+![The next day](images/14-spongebob.png)
+
+Alright new day new monster time to get back to work!
+The third space we are talking about is the Prospect space, and it handles another feeling of being uncomfortable! 
+Rather than being in a closed space where you can't move freely you are in an open space where you have all the space to move but too much space to truly know what's all going on on your surroundings.
+
+According to mr Hildebrand: "A prospect space as that in which humans and too historically find food, water and other necessities - Outsiode of the safety of caves and open to predators and the elements.
+Prospect spaces are used for boss rooms: larhge open spaces where the player cannot use his or her abilities to take a spatil advantage but must instead fight a single poweful foe.
+
+Well as I'm writing this maybe I understyood prospect space wrong, its not about the size but rather what's not in it
+
+![Prospect space illustration](images/15-prospect-space.png)
+
+Anyway so I started googling. As this book is like all about architecture that was exactly the direction I went in!
+
+Source: https://landarchconcepts.wordpress.com/what-is-prospect-refuge/
+I stumbled upon this:
+
+![Prospect and refuge](images/16-prospect-and-refuge.png)
+
+So here we go back all the way to 1975 where the prospect refuge theory was developed by a guy named Jay Appleton. The core idea is: Humans prefer environments where they can see without being seen. so yeah we are taking the right direction with this!
+Usally I tend to be very hesitant with using old sources but honestly when we think about architecture I feel like people in the past knew their shit well enough to take their works as reference.
+
+![old vs new](images/17-old-vs-new.png)
+
+Look I'm all for modern buildings, honestly I think modern houses are very cool actually, those white cubes stacked in random ways, I'm not gonna lie, I think it looks cool. But when it comes to architecture and conveying emotion and spaces and stuff, there is no way I'd ask a modern architect to tell me more about the subject when there's books written by people who designed these massive stone buildings without the resources we have today and still make themselves seem like a more advanced sivilisation than we are today!
+
+Anyway now that I made my point why I prefer looking at older stuff over new stuff lets se what the article talks about!:
+According to this article there are 2 spartial types (well we saw three but I assume the narrow space is not included in this theory).
+- Prospect spaces: Spaces with outward views, visibility and a sense of oversight
+- Refuge spaces: Shelter encolure and protection
+
+But on these fundamentals there are differences:
+- Prospect refuge spaces: spaces where you have both visibility and shelter at the same time
+- Edge & boundary spaces: The transition nbetweenn openn and enclosed spaces: Edges naturally create a spot for refuge
+- Enticement spaces: This is kinda invented by designners, its a refuge space what feels obscured but it suggests something is beyond so it is to entices movement inside
+- Hazard spaces: honestly this is what I thought prospect was at first, an area where you are in high exposure, no defined bounndary without protection or cover
+
+Now that I got some more architectual knowledge back to the book!
+The book talks about how simmilar to narrow spaces prospect spaces have potential for creating fear in the player (Like especially the Hazard spaces).
+Having too much vision in a prospect space as mentioned earlier means you can't see everything that's around you unlike a refuge/intimate space giving you a sense of insecurity, it feels good to have a sense of oversight but on the other hand take that oversight away with no end and your prospect space becomes a lot scaried. Hold my monster I'm opening up photoshop!
+
+![No mist garden](images/18-garden.png)
+
+As you can see both are prospect spaces, one where you can see everything another one where your view is narrowed (honestly theres a lot of factors you can't really capture in an image as you have edges around you etc but sorry its a picture)
+But what if I take away your view and replace it with mist! We are still in a prospect space but outa nowhere you can't see ur environment anymore and kaboom now things get scary!!!
+Wait you thinnk I was gonna make my own fog over it? Well I tried but I got wat to invested and I actually am on a schedule so I decided to just show another example!
+
+![mist garden](images/19-fog.jpg)
+
+But yeah same prospect space and even though one has their view significantly narrowed and it really adds to the atmosphere.
+Reminds be back to the Siren head days. Anyway this was a very interesting subject to dive into and I'll definitly take it with me. Seems like Prospect spaces aren't inheritly scary and actually provide security, until you have nothing at your back or no way to go and nothing to see coming, then tension goes up. That definitly explains why we just happily run around in Minecraft without a worry even at night, take away the view and replace it with heavy fog and play the game for the first time and lets see how comfortable you walk around at night through the good ol' plains field!
+
+![siren head](images/20-siren-head.jpg)
+![Minecraft fog](images/21-fog-minecraft.jpg)
+
+Still very interesting notion on how to create and relieve tension through phasing. Force a player to walk to a big castle in the middle of an open field, when its foggy you are hitting that tension meter as you are in the middle of an open space with no walls or anything in sight and tension goes op. Or slow phasing down and give full vision and out of nowhere its just a comfortable walk where you can take your breath! Very interesting, like for procedural generation this is actually pure gold when I think about it, these kind of things can be applied to the same area and you can really base it on what the player experienced before it! if the previous area was comfy you can generate it it without fog and danger, but if he just came out of a safe zone generate the area with fog and monsters!!!
+
+Letsgooooooooooooooooooooooooooooooooooooooooo, big win!
+
