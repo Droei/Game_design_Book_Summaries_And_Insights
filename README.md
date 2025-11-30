@@ -260,7 +260,7 @@ Ofcorse this is not just for urban styled games, landmarks can be anythin g like
 An interesting landmark, I mean I guess it is it definitly is an architectual weenie is how that sunken ship makes you check out towards it where you get absolutely fucked up by your first leviathan class monster!
 What makes it also interesting is how the front is way further away from you than the back making you go towards that side which is exactly where the developers wanted you to be to put some real fear inside of you!
 
-![Golden tree](images/23-subnautica-ship.avif)
+![Subnautica ship landmark](images/23-subnautica-ship.avif)
 
 
 #### Paths
@@ -270,11 +270,15 @@ Its sole purpose is usually to guide a player to the next point. But another exa
 Cmon! I just had to have a feature of the game of the year contender "The Life of Mr Pips" is it too far fetched that a strawberry surfing a leaf over water is a good example of good path design?
 Well actually I don't think it does because I don't consider "The Life of Mr Pips" a sandbox game, but god dammit Mr Pips goes beyond game design so I'll put it in!
 
-![Golden tree](images/24-Mr-Pips-Rafting-path.png)
+![Mr Pips also rafting](images/24-Mr-Pips-Rafting-path.png)
 
-![Golden tree](images/25-pip-rafting.gif)
+![Mr Pips rafting](images/25-pip-rafting.gif)
 
 
 #### Nodes
 I actually have no clue what nodes are, the book says: well basically nodes are intersections on a road. So what doesn that mean?
 Well there is this thing named "Decision points" that are basically force the player to decide on what to priorotise next. I guess Baldurs gate is also a good example because these decisions can also be used for things like moral decisions.
+So there is this sandbox game named "Bully" where you are constantly be confronted with different paths to go as you need to gain favour around the school and every path has postives and negatives for favours.
+(Its late so might come back to this tomorrow....)
+
+![Edge design](images/26-edge-design.jpg)
