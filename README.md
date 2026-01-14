@@ -1,4 +1,8 @@
 
+# Book summaries for level design!
+
+In this repository I write down all my summaries on game design related books I read, this will function as a way for me to process the vast amount of data I'm getting from these and also to be able to remember it later and come back to/ refresh the subjects as I need it.
+
 # Level design for infinitely generated worlds
 
 In this research I'm looking into how to make the bridge between intentional & clean level design towards infinitely procedural world generation. This subject has interested me pretty deeply over the last few months and I'm excited to dive deeper into it. This research will mostly be from a game designers perspective but I will also be looking out for possible solutions for implementing certain level design principles.
