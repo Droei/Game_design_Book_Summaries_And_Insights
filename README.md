@@ -20,23 +20,23 @@ A very interesting topic I just have to note down is **Arrivals**. As the book s
 
 A big subject I now want to write about is the long round way around walking to the Patrthenon. I find this to be a very interesting concept that has a lot of potential to be implemented procedurally.
 
-![Parthenon pathway](images/1-pantheon.png)
+![Parthenon pathway](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/1-pantheon.png)
 
 The idea is on how the road forces you to walk around the building seeing it from all angles, from afar from the side from the back really building up the moment you finally get in front. I find this a very nice way to giving players a goal and to build up anticipation procedurally!
 
 When building a procedural world in simple terms: As I want to work with a modular principle like minecraft the world will be cut into different parts where different worlds can spawn upon. Imagine I want to make a world that has a "Parthenon" type building in the center. If I where to wrap the uv's of the mountains around this building towards the center using a neat function named Arctangent2
 
-![Noise pulled to the center](images/2-Atan2Noise.png)
+![Noise pulled to the center](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/2-Atan2Noise.png)
 
 Now our mountains are pulled to the center of the world, so what if instead of just traight mountains we can just twirl hat same vector, yeah ofcorse that's possible !
 
-![Noise twirled to the center](images/3-Atan2TwirlNoise.png)
+![Noise twirled to the center](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/3-Atan2TwirlNoise.png)
 
 Now we spawn mountains that delay your path but give way for differences in height, we can move the center to be more to the back for longer walks or closer by so the start of the area is more visible from other regions, the ending can be in an elevated position or maybe its deep under ground, either way using smoothstep in the center area we can smoothly make the mountains blend with our building in the center!
 
 This might work!!!
 
-![OMG](images/4-omg.gif)
+![OMG](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/4-omg.gif)
 
 There is still a lot to go through here but I'l excited to try this out!
 
@@ -54,7 +54,7 @@ The effect is that as you walk into the hotel  it starts small with lower ceilin
 This is implemented in games like The Legend of Zelda and Metroid series.
 Below a picture of how it would look in a side view.
 
-![Legend of Zelda J-spot](images/9-Legend-of-zelda-JSpot.png)
+![Legend of Zelda J-spot](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/9-Legend-of-zelda-JSpot.png)
 
 I have seen this effect many times in games, even though I'm now genuinely to physically disabled to enjoy most games. I remember swimming around in Subnautical and encountering big caves with beautiful light after having to dive down deep through narrow tunnels to get there, only now I can truly understand how this is done, its not just about the diffence between start and end but also as you see in the picture the suddeness, you are looking at the sword when you come in, you can't see what's above you and as you walk in your view grows and you see everything. Its like an exponent you go from nothing to almost seeing everything instantly.
 Its such a simple concept with soo much more depth than you can just come up with!
@@ -65,12 +65,12 @@ Source: an architectual approach to level design 144-155
 
 Another very interesting subject is the consideration of camera! Speicically the example of how side scrolling games and top down games can show players things that the player character cannot nessesairly see.
 
-![Illustration of character with chests](images/5-chests.jpg)
-![Illustration of character with chests](images/6-chests.jpg)
+![Illustration of character with chests](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/5-chests.jpg)
+![Illustration of character with chests](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/6-chests.jpg)
 
 As my game will be a volumetric 3D world I like to think in that perspective but ofcorse this means an idea like that would be impossible. But I really like the idea of teasing a potential loot drop or maybe impactful area before you can reach it... Like a hot or cold effect, imagine you are a robot looking for energy sources, you are exploring a cave and you get an energy reading, just like bluetooth from your phone goes through the walls you can also notice readings, ofcorse as you get closer the connection will get stronger until it gets so close you can even see it through walls!
 
-![Seeing through walls](images/7-thou-shall-find.png)
+![Seeing through walls](images/Architectural_Approach_to_Level_Design/7-thou-shall-find.png)
 
 **BEHOLD MY CRAZY CONCEPT ART, MY PREPROCESSING TEACHER WOULD DEFINITLY SHOOT ME** (Altough he's like one of the most wholesome teachers ever, I think he'd have a giggle and say "well at least I see what you mean")
 
@@ -98,7 +98,7 @@ Which is kinda what I interpreted it as but it confuses me quite hard. So a game
 
 So what is this Grant Hildebrand trying to say, because he definitly understands more about design than I do if I base his quote on my messy love life...
 
-![Hildebrand](images/8-hildebrand.png)
+![Hildebrand](images/Architectural_Approach_to_Level_Design/8-hildebrand.png)
 
 Source https://gettherapybirmingham.com/the-predictive-mind-karl-fristons-free-energy-principle-and-its-implications-for-consciousness/#:~:text=The%20Free%20Energy%20Principle%20and%20Predictive%20Coding&text=According%20to%20Friston%2C%20the%20brain,errors%20(Friston%2C%202010).
 https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2010.00025/full
@@ -142,7 +142,7 @@ According to the book these spaces should not be larger than a player characters
 
 Narrow spaces create tensionn by giving space scarcity, space becomes a valuable resource.
 
-![Space scarce examples](images/10-space-scarce.png)
+![Space scarce examples](images/Architectural_Approach_to_Level_Design/10-space-scarce.png)
 
 As space is narrow comfrontation becomes more inevitable it creates tension and that prediction brain we talked about earlier (OMG SO THATS WHY THIS IS SPARTIAL SIZE TYPES AND EARLIER ABOUT SPARTIAL ARRANGEMENTS ITS ALL COMING TOGETHER!!!)
 It readies the player to be ready for something, not because they know something will come, nothing can come but you humanly just get more uncomfortable as space becomes limited and your movements are limited.
@@ -153,7 +153,7 @@ The tunnel there he talked about was... WELL THERE WHERE 2 TUNNELS AND ONE WAS N
 I luckily I survived with just a few scratches and bruises
 
 
-<img src="images/11-cave-survival.png" width="300">
+<img src="images/Architectural_Approach_to_Level_Design/11-cave-survival.png" width="300">
 
 Anyway this pressure can come in many ways and honestly I love using my own real life examples to understanding these concepts, its such a nice way to understand concepts this way.
 I don't know if my way of writing everything down that comes to mind is something that works for others, but for me it really helps with putting my mind in order!
@@ -163,12 +163,12 @@ I don't know if my way of writing everything down that comes to mind is somethin
 Basically not confining not large. Its made to comfortably support the movement of the character in relation to its size. Interactive surfaces and features are within (hee player reach, like wall jumping etc. Its the type of area you enjoy jumping around in as you enjoy just join then nice design of a character! I assume these are the most common spaces.
 The book also talks aboutmultilateral intimate space where you are in a multiplayer game with nosignificant advantage points.
 
-![Space scarce examples](images/12-Intermediate-space.png)
+![Space scarce examples](images/Architectural_Approach_to_Level_Design/12-Intermediate-space.png)
 
 These spaces have several beneficial effects like their comfortable accessibility as they are considered friendly often. Assuming in procedurally generated world they can also be created as a safezone in a horde of enemies.
 I guess a nice example would be this amazing art piece I made using some cool lava environment I found on SketchFab: https://sketchfab.com/3d-models/low-poly-lava-world-05919a399a8c47ebbf56822ef2bac7d3
 
-![Space scarce examples](images/13-lava.jpg)
+![Space scarce examples](images/Architectural_Approach_to_Level_Design/13-lava.jpg)
 
 Imagine you are in a big lava area full of monsters but when generating one of those difficult areas there are spots you can crawl into on the side maybe? Like safe spaces, they are clearly seperated from the rest of the area but still part of it, you see walls around you and know enemies can't reach, it has some areas you can move around in, maybe some loot but all by all its safe, it phases the game right before you are about to have to fight through big hordes, I feel like when working procedurally generating random Intimate spaces all ove the world isn't nessisairy to put level design in but more of like a failsafe to give players a time to phase back, on purpose to catch some air, change their characters or maybe not because in the past you conditioned them that Intimate spaces like these can bring you rewards or maybe lore of like characters that died hiding there or whatever! Its such a nice consistent way of telling story while slowing down the pace procedurally!!!
 
@@ -176,7 +176,7 @@ Imagine you are in a big lava area full of monsters but when generating one of t
 
 Guess this is for tomorrow, the Monster wore out...
 
-![The next day](images/14-spongebob.png)
+![The next day](images/Architectural_Approach_to_Level_Design/14-spongebob.png)
 
 Alright new day new monster time to get back to work!
 The third space we are talking about is the Prospect space, and it handles another feeling of being uncomfortable! 
@@ -187,19 +187,19 @@ Prospect spaces are used for boss rooms: larhge open spaces where the player can
 
 Well as I'm writing this maybe I understyood prospect space wrong, its not about the size but rather what's not in it
 
-![Prospect space illustration](images/15-prospect-space.png)
+![Prospect space illustration](images/Architectural_Approach_to_Level_Design/15-prospect-space.png)
 
 Anyway so I started googling. As this book is like all about architecture that was exactly the direction I went in!
 
 Source: https://landarchconcepts.wordpress.com/what-is-prospect-refuge/
 I stumbled upon this:
 
-![Prospect and refuge](images/16-prospect-and-refuge.png)
+![Prospect and refuge](images/Architectural_Approach_to_Level_Design/16-prospect-and-refuge.png)
 
 So here we go back all the way to 1975 where the prospect refuge theory was developed by a guy named Jay Appleton. The core idea is: Humans prefer environments where they can see without being seen. so yeah we are taking the right direction with this!
 Usally I tend to be very hesitant with using old sources but honestly when we think about architecture I feel like people in the past knew their shit well enough to take their works as reference.
 
-![old vs new](images/17-old-vs-new.png)
+![old vs new](images/Architectural_Approach_to_Level_Design/17-old-vs-new.png)
 
 Look I'm all for modern buildings, honestly I think modern houses are very cool actually, those white cubes stacked in random ways, I'm not gonna lie, I think it looks cool. But when it comes to architecture and conveying emotion and spaces and stuff, there is no way I'd ask a modern architect to tell me more about the subject when there's books written by people who designed these massive stone buildings without the resources we have today and still make themselves seem like a more advanced sivilisation than we are today!
 
@@ -218,19 +218,19 @@ Now that I got some more architectual knowledge back to the book!
 The book talks about how simmilar to narrow spaces prospect spaces have potential for creating fear in the player (Like especially the Hazard spaces).
 Having too much vision in a prospect space as mentioned earlier means you can't see everything that's around you unlike a refuge/intimate space giving you a sense of insecurity, it feels good to have a sense of oversight but on the other hand take that oversight away with no end and your prospect space becomes a lot scaried. Hold my monster I'm opening up photoshop!
 
-![No mist garden](images/18-garden.png)
+![No mist garden](images/Architectural_Approach_to_Level_Design/18-garden.png)
 
 As you can see both are prospect spaces, one where you can see everything another one where your view is narrowed (honestly theres a lot of factors you can't really capture in an image as you have edges around you etc but sorry its a picture)
 But what if I take away your view and replace it with mist! We are still in a prospect space but outa nowhere you can't see ur environment anymore and kaboom now things get scary!!!
 Wait you thinnk I was gonna make my own fog over it? Well I tried but I got wat to invested and I actually am on a schedule so I decided to just show another example!
 
-![mist garden](images/19-fog.jpg)
+![mist garden](images/Architectural_Approach_to_Level_Design/19-fog.jpg)
 
 But yeah same prospect space and even though one has their view significantly narrowed and it really adds to the atmosphere.
 Reminds be back to the Siren head days. Anyway this was a very interesting subject to dive into and I'll definitly take it with me. Seems like Prospect spaces aren't inheritly scary and actually provide security, until you have nothing at your back or no way to go and nothing to see coming, then tension goes up. That definitly explains why we just happily run around in Minecraft without a worry even at night, take away the view and replace it with heavy fog and play the game for the first time and lets see how comfortable you walk around at night through the good ol' plains field!
 
-![siren head](images/20-siren-head.jpg)
-![Minecraft fog](images/21-fog-minecraft.jpg)
+![siren head](images/Architectural_Approach_to_Level_Design/20-siren-head.jpg)
+![Minecraft fog](images/Architectural_Approach_to_Level_Design/21-fog-minecraft.jpg)
 
 Still very interesting notion on how to create and relieve tension through phasing. Force a player to walk to a big castle in the middle of an open field, when its foggy you are hitting that tension meter as you are in the middle of an open space with no walls or anything in sight and tension goes op. Or slow phasing down and give full vision and out of nowhere its just a comfortable walk where you can take your breath! Very interesting, like for procedural generation this is actually pure gold when I think about it, these kind of things can be applied to the same area and you can really base it on what the player experienced before it! if the previous area was comfy you can generate it it without fog and danger, but if he just came out of a safe zone generate the area with fog and monsters!!!
 
@@ -249,7 +249,7 @@ So here something already kinda contradicts: "Definded boundaries" well sadly no
 Before I start disecting the part I first want to dive deeper in the concept of "Architectual Weenies"! What are they? Well the book says they are an integral part of sandbox spaces. They allow these worlds to retain their openess but still direct players to places that designers want them to go. An often mentioned example is sleeping beauty's castle, its the big thing that pulls your attention, it invites you in and sets a goal on where to go.
 My personal idea of a very obvious architectual weenie is that big golden tree in Elden ring, its like the one thing you see everywhere, the one thing that tells you without guide where to go, you get attracted to it like a fly to a lamp as you march through the world with no clue what its actually for, to this day I still don't know if I could have actually reached it... But god dammit did I keep chasing that tree for hours!
 
-![Golden tree](images/22-golden-tree.avif)
+![Golden tree](images/Architectural_Approach_to_Level_Design/22-golden-tree.avif)
 
 The basica idea of architectual weenies is to move the player towards a goal, I have no clue if we can have multiple architectual weenies or how that works but I think its possible. Earlier in *Considerations of camera* I concluded a big part of infinite procedurally generated worlds need some kind of guidance to make it work with good level design and I bet Architectual Weenies will contribute to this idea in such a massive way!
 
@@ -265,7 +265,7 @@ Ofcorse this is not just for urban styled games, landmarks can be anythin g like
 An interesting landmark, I mean I guess it is it definitly is an architectual weenie is how that sunken ship makes you check out towards it where you get absolutely fucked up by your first leviathan class monster!
 What makes it also interesting is how the front is way further away from you than the back making you go towards that side which is exactly where the developers wanted you to be to put some real fear inside of you!
 
-![Subnautica ship landmark](images/23-subnautica-ship.avif)
+![Subnautica ship landmark](images/Architectural_Approach_to_Level_Design/23-subnautica-ship.avif)
 
 
 #### Paths
@@ -275,9 +275,9 @@ Its sole purpose is usually to guide a player to the next point. But another exa
 Cmon! I just had to have a feature of the game of the year contender "The Life of Mr Pips" is it too far fetched that a strawberry surfing a leaf over water is a good example of good path design?
 Well actually I don't think it does because I don't consider "The Life of Mr Pips" a sandbox game, but god dammit Mr Pips goes beyond game design so I'll put it in!
 
-![Mr Pips also rafting](images/24-Mr-Pips-Rafting-path.png)
+![Mr Pips also rafting](images/Architectural_Approach_to_Level_Design/24-Mr-Pips-Rafting-path.png)
 
-![Mr Pips rafting](images/25-pip-rafting.gif)
+![Mr Pips rafting](images/Architectural_Approach_to_Level_Design/25-pip-rafting.gif)
 
 
 #### Nodes
@@ -286,4 +286,4 @@ Well there is this thing named "Decision points" that are basically force the pl
 So there is this sandbox game named "Bully" where you are constantly be confronted with different paths to go as you need to gain favour around the school and every path has postives and negatives for favours.
 (Its late so might come back to this tomorrow....)
 
-![Edge design](images/26-edge-design.jpg)
+![Edge design](images/Architectural_Approach_to_Level_Design/26-edge-design.jpg)
