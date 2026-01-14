@@ -20,23 +20,23 @@ A very interesting topic I just have to note down is **Arrivals**. As the book s
 
 A big subject I now want to write about is the long round way around walking to the Patrthenon. I find this to be a very interesting concept that has a lot of potential to be implemented procedurally.
 
-![Parthenon pathway](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/1-pantheon.png)
+![Parthenon pathway](images/Architectural_Approach_to_Level_Design/1-pantheon.png)
 
 The idea is on how the road forces you to walk around the building seeing it from all angles, from afar from the side from the back really building up the moment you finally get in front. I find this a very nice way to giving players a goal and to build up anticipation procedurally!
 
 When building a procedural world in simple terms: As I want to work with a modular principle like minecraft the world will be cut into different parts where different worlds can spawn upon. Imagine I want to make a world that has a "Parthenon" type building in the center. If I where to wrap the uv's of the mountains around this building towards the center using a neat function named Arctangent2
 
-![Noise pulled to the center](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/2-Atan2Noise.png)
+![Noise pulled to the center](images/Architectural_Approach_to_Level_Design/2-Atan2Noise.png)
 
 Now our mountains are pulled to the center of the world, so what if instead of just traight mountains we can just twirl hat same vector, yeah ofcorse that's possible !
 
-![Noise twirled to the center](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/3-Atan2TwirlNoise.png)
+![Noise twirled to the center](images/Architectural_Approach_to_Level_Design/3-Atan2TwirlNoise.png)
 
 Now we spawn mountains that delay your path but give way for differences in height, we can move the center to be more to the back for longer walks or closer by so the start of the area is more visible from other regions, the ending can be in an elevated position or maybe its deep under ground, either way using smoothstep in the center area we can smoothly make the mountains blend with our building in the center!
 
 This might work!!!
 
-![OMG](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/4-omg.gif)
+![OMG](images/Architectural_Approach_to_Level_Design/4-omg.gif)
 
 There is still a lot to go through here but I'l excited to try this out!
 
@@ -54,7 +54,7 @@ The effect is that as you walk into the hotel  it starts small with lower ceilin
 This is implemented in games like The Legend of Zelda and Metroid series.
 Below a picture of how it would look in a side view.
 
-![Legend of Zelda J-spot](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/9-Legend-of-zelda-JSpot.png)
+![Legend of Zelda J-spot](images/Architectural_Approach_to_Level_Design/9-Legend-of-zelda-JSpot.png)
 
 I have seen this effect many times in games, even though I'm now genuinely to physically disabled to enjoy most games. I remember swimming around in Subnautical and encountering big caves with beautiful light after having to dive down deep through narrow tunnels to get there, only now I can truly understand how this is done, its not just about the diffence between start and end but also as you see in the picture the suddeness, you are looking at the sword when you come in, you can't see what's above you and as you walk in your view grows and you see everything. Its like an exponent you go from nothing to almost seeing everything instantly.
 Its such a simple concept with soo much more depth than you can just come up with!
@@ -65,8 +65,8 @@ Source: an architectual approach to level design 144-155
 
 Another very interesting subject is the consideration of camera! Speicically the example of how side scrolling games and top down games can show players things that the player character cannot nessesairly see.
 
-![Illustration of character with chests](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/5-chests.jpg)
-![Illustration of character with chests](images/Architectural_Approach_to_Level_Design/Architectural_Approach_to_Level_Design/6-chests.jpg)
+![Illustration of character with chests](images/Architectural_Approach_to_Level_Design/5-chests.jpg)
+![Illustration of character with chests](images/Architectural_Approach_to_Level_Design/6-chests.jpg)
 
 As my game will be a volumetric 3D world I like to think in that perspective but ofcorse this means an idea like that would be impossible. But I really like the idea of teasing a potential loot drop or maybe impactful area before you can reach it... Like a hot or cold effect, imagine you are a robot looking for energy sources, you are exploring a cave and you get an energy reading, just like bluetooth from your phone goes through the walls you can also notice readings, ofcorse as you get closer the connection will get stronger until it gets so close you can even see it through walls!
 
